@@ -1,1 +1,2 @@
 This is a Proof-of-Concept node.js application to simulate a vulnerable service against XML injection attack.
+More info: http://gerionsecurity.com/2012/06/revenge-of-xhtml/
